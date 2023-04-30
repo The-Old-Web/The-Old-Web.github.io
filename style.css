@@ -1,0 +1,10 @@
+.html
+body{
+    background: image('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.wallpapersafari.com%2F9%2F42%2FnZuy0a.jpg&f=1&nofb=1&ipt=b3d0881236dfd41ef7ac7330440829e6b081bbadfa496d2edfb60f44813f65de&ipo=images');
+}
+h1{
+    color: darkgray;
+    -moz-text-decoration-style: dashed;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    
+}
